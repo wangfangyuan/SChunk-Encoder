@@ -11,6 +11,6 @@ have quadratic computational complexity.
 
 More details can be found in our latest paper on arxiv:http://128.84.4.27/pdf/2203.15206 which has been submitted to Interspeech 2022.
 
-I am avaiable by Email: fangyuan.wang@ia.ac.cn, feel free to contact me if any question you meet with our code.
+We are avaiable through Email: fangyuan.wang@ia.ac.cn, feel free to contact us if any question you meet with our code.
 
 Thanks WeNet team and Swin-Transformer team for their code sharing.
