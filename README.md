@@ -9,7 +9,7 @@ capture global context across local chunks, while keeping linear computational c
 SChunk-Conformer achieve CER 6.43% and 5.77%, respectively. That surpasses the existing chunk-wise and memory based methods by a large margin, and is competitive even compared with the state-of-the-art time-restricted methods which
 have quadratic computational complexity.
 
-More details can be found in our latest paper on arxiv:http://128.84.4.27/pdf/2203.15206 which has been submitted to Interspeech 2022.
+More details can be found in our latest paper on arxiv:http://128.84.4.27/pdf/2203.15206 which has been accepted by ICONIP 2022.
 
 We are avaiable through Email: fangyuan.wang@ia.ac.cn, feel free to contact us if any question you meet with our code.
 
