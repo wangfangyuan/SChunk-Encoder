@@ -17,7 +17,7 @@ Thanks WeNet team and Swin-Transformer team for their code sharing.
 
 # Citation
 If you find SChunk-Encoder useful in your work, you can cite the following paper:
-
+```bibtex
 @article{Wang2022ShiftedCE,
   title={Shifted Chunk Encoder for Transformer Based Streaming End-to-End ASR},
   author={Fangyuan Wang and Bo Xu},
@@ -25,3 +25,4 @@ If you find SChunk-Encoder useful in your work, you can cite the following paper
   year={2022},
   volume={abs/2203.15206}
 }
+```
