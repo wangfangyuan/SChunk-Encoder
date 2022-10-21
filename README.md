@@ -15,7 +15,7 @@ We are avaiable through Email: fangyuan.wang@ia.ac.cn, feel free to contact us i
 
 Thanks WeNet team and Swin-Transformer team for their code sharing.
 
-#Citation
+# Citation
 If you find SChunk-Encoder useful in your work, you can cite the following paper:
 
 @article{Wang2022ShiftedCE,
